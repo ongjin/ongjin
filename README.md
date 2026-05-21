@@ -3,8 +3,9 @@
 인프라부터 배포까지 직접 설계하고 구축합니다.
 SI 현장에서 레거시 시스템을 다루며, 비용은 줄이고 안정성은 높이는 구조를 고민합니다.
 
-- Redis + Lua 스크립트로 Kafka 없이 분산 태스크 큐를 직접 설계한 경험이 있습니다.
-- Java 8 → 25 마이그레이션, DB 정규화, S3 Presigned URL 등 레거시 현대화를 주도했습니다.
+- **분산 태스크 큐 직접 설계** — Kafka 없이 Redis + Lua 스크립트로 구현, 인프라 한 덩어리 덜어냄
+- **레거시 현대화 주도** — Java 8 → 25 마이그레이션, DB 정규화, S3 Presigned URL 도입을 운영 무중단으로
+- **자체 인프라 운영** — 이 블로그(zerry.co.kr)를 Vercel → OCI Docker로 직접 이관, blue/green 무중단 배포 + Cloudflare Access 인증
 
 ---
 
