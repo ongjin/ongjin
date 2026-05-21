@@ -21,6 +21,4 @@ jobs:
         with:
           feed_list: "https://zerry.co.kr/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) <sub>$date</sub>"
-          date_format: "yyyy-MM-dd"
           commit_message: "chore: 최근 블로그 글 자동 동기화"
