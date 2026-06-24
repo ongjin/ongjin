@@ -41,8 +41,8 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top"><a href="https://github.com/ongjin/garu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=garu&theme=tokyonight&hide_border=true" alt="garu" /></a></td>
-      <td valign="top"><a href="https://github.com/ongjin/handdrawn-diagrams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=handdrawn-diagrams&theme=tokyonight&hide_border=true" alt="handdrawn-diagrams" /></a></td>
+      <td valign="top"><a href="https://github.com/ongjin/garu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=garu&theme=tokyonight&hide_border=true&description_lines_count=2" alt="garu" /></a></td>
+      <td valign="top"><a href="https://github.com/ongjin/handdrawn-diagrams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=handdrawn-diagrams&theme=tokyonight&hide_border=true&description_lines_count=2" alt="handdrawn-diagrams" /></a></td>
     </tr>
   </table>
 </div>
