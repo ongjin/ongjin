@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [내 디스코드 봇 .env에는 서버를 만질 수 있는 토큰이 박혀 있다 — Cloudflare가 OAuth 위임을 열었길래, 에이전트 권한을 다시 생각했다](https://zerry.co.kr/blog/static-token-vs-oauth-delegation-agentic-permissions)
+- [배포할 때마다 prod 마이그레이션에 가슴을 졸인다 — Cloudflare는 살아있는 OAuth 엔진을 3시간 동안 갈아끼웠다](https://zerry.co.kr/blog/cloudflare-hydra-oauth-zero-downtime-migration)
 - [매일 백업은 초록불이었다 — 처음 복구해보니 pg_restore 에러 163개, 임베딩 테이블이 통째로 비어 있었다](https://zerry.co.kr/blog/db-restore-test-pgvector)
 - [스크래퍼는 막고, AI 크롤러한텐 마크다운으로 정문을 냈다](https://zerry.co.kr/blog/ai-crawler-markdown-llms-txt)
 - [방문자는 497명인데 페이지뷰가 23,000이었다 — 분산 프록시 스크래퍼를 쫓다가, 완벽 차단을 포기한 기록](https://zerry.co.kr/blog/distributed-scraper-honest-dashboard)
-- [내 서버는 서울인데 트래픽은 홍콩을 찍고 왔다 — Cloudflare 무료 플랜의 한국 라우팅 함정을 /etc/hosts 한 줄로 풀었다](https://zerry.co.kr/blog/cloudflare-free-tier-korea-routing)
-- [토스증권이 오픈 API 사전신청을 열었다 — 키 받기 전에 연결·주문까지 문서를 통째로 뜯어봤다](https://zerry.co.kr/blog/tossinvest-open-api-guide)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
