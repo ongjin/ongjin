@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [V8은 내 코드를 믿지 않는다 — 최적화하고, 배신당하고, 다시 컴파일하는 걸 플래그로 지켜봤다](https://zerry.co.kr/blog/v8-optimizer-deopt-hidden-class)
 - [새 MCP 스펙이 세션을 죽인다 — 내 트레이딩 봇 MCP를 열어보니, 난 이미 세션을 안 쓰고 있었다](https://zerry.co.kr/blog/mcp-2026-stateless-spec-my-server)
 - [내 디스코드 봇 .env에는 서버를 만질 수 있는 토큰이 박혀 있다 — Cloudflare가 OAuth 위임을 열었길래, 에이전트 권한을 다시 생각했다](https://zerry.co.kr/blog/static-token-vs-oauth-delegation-agentic-permissions)
 - [배포할 때마다 prod 마이그레이션에 가슴을 졸인다 — Cloudflare는 살아있는 OAuth 엔진을 3시간 동안 갈아끼웠다](https://zerry.co.kr/blog/cloudflare-hydra-oauth-zero-downtime-migration)
 - [매일 백업은 초록불이었다 — 처음 복구해보니 pg_restore 에러 163개, 임베딩 테이블이 통째로 비어 있었다](https://zerry.co.kr/blog/db-restore-test-pgvector)
-- [스크래퍼는 막고, AI 크롤러한텐 마크다운으로 정문을 냈다](https://zerry.co.kr/blog/ai-crawler-markdown-llms-txt)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
