@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [B-tree한테 uuidv4는 다트 던지기였다 — PG18이 공짜로 준 uuidv7에 1,000만 행을 부어봤다](https://zerry.co.kr/blog/pg18-uuidv7-pk-benchmark)
 - [답변의 [27]을 누르면 본문 27번째 문단이 빛난다 — 그 번호는 어디에도 저장 안 했다](https://zerry.co.kr/blog/article-scoped-chat-cite-anchor)
 - [무중단 업그레이드의 첫 단계는 재시작이었다 — 살아있는 Postgres 17을 18로 갈아끼운 기록](https://zerry.co.kr/blog/pg18-logical-replication-upgrade)
 - [V8은 내 코드를 믿지 않는다 — 최적화하고, 배신당하고, 다시 컴파일하는 걸 플래그로 지켜봤다](https://zerry.co.kr/blog/v8-optimizer-deopt-hidden-class)
 - [새 MCP 스펙이 세션을 죽인다 — 내 트레이딩 봇 MCP를 열어보니, 난 이미 세션을 안 쓰고 있었다](https://zerry.co.kr/blog/mcp-2026-stateless-spec-my-server)
-- [내 디스코드 봇 .env에는 서버를 만질 수 있는 토큰이 박혀 있다 — Cloudflare가 OAuth 위임을 열었길래, 에이전트 권한을 다시 생각했다](https://zerry.co.kr/blog/static-token-vs-oauth-delegation-agentic-permissions)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
