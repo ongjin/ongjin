@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [램이 모자라자 같은 recall이 476배로 갈라졌다 — pgvector와 VectorChord에 100만 벡터를 붓고 램을 줄여봤다](https://zerry.co.kr/blog/pgvector-vs-vectorchord-ram-squeeze)
 - [내 챗봇이 내 블로그를 틀리게 설명한다 — RAG가 옛 글에 오염될 때](https://zerry.co.kr/blog/chatbot-stale-stack-ground-truth-anchor)
 - [&#39;다음은 신경망&#39;이라 써놓고, 그 신경망을 지웠다 — 브라우저 형태소 분석기를 1.7MB에서 1.0MB로](https://zerry.co.kr/blog/garu-deleting-the-neural-net)
 - [B-tree한테 uuidv4는 다트 던지기였다 — PG18이 공짜로 준 uuidv7에 1,000만 행을 부어봤다](https://zerry.co.kr/blog/pg18-uuidv7-pk-benchmark)
 - [답변의 [27]을 누르면 본문 27번째 문단이 빛난다 — 그 번호는 어디에도 저장 안 했다](https://zerry.co.kr/blog/article-scoped-chat-cite-anchor)
-- [무중단 업그레이드의 첫 단계는 재시작이었다 — 살아있는 Postgres 17을 18로 갈아끼운 기록](https://zerry.co.kr/blog/pg18-logical-replication-upgrade)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
