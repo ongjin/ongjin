@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [프로토콜은 12개월 유예를 줬는데, pip은 하루도 안 줬다 — MCP SDK v2 실이관, 무세션의 청구서를 바이트로 받았다](https://zerry.co.kr/blog/mcp-sdk-v2-migration-breakeven)
 - [아이콘을 바꿨는데 마스토돈 아바타만 그대로였다 — 지연이 아니라 영원히였다](https://zerry.co.kr/blog/mastodon-avatar-stale-hash-as-version)
 - [블로그를 마스토돈에서 팔로우할 수 있게 만들었다 — 배포하자 서버가 자기 계정을 모른다고 답했다](https://zerry.co.kr/blog/fediverse-actor-origin-not-request)
 - [내 MCP 서버에 프롬프트 인젝션 4종을 심었다 — 서버는 하나도 못 막았고, 막은 건 모델이었다](https://zerry.co.kr/blog/mcp-injection-audit-model-not-server)
 - [Postgres 안에 내 토크나이저를 심고 BM25로 채점했더니 내가 졌다 — 한 줄을 걷어내기 전까지는](https://zerry.co.kr/blog/postgres-3-way-bm25)
-- [내 서버는 포트 스캔에 아무것도 안 나온다 — 1 OCPU 두 대, 컨테이너 15개, 이 블로그의 전체 아키텍처](https://zerry.co.kr/blog/blog-architecture-zero-open-ports)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
