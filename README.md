@@ -24,24 +24,10 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ongjin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=ongjin&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ongjin&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
-</p>
-
----
-
 ### Featured Open Source
 
-<p align="center">
-  <a href="https://github.com/ongjin/garu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=garu&theme=tokyonight&hide_border=true&description_lines_count=2" alt="garu" /></a>
-  <a href="https://github.com/ongjin/handdrawn-diagrams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=handdrawn-diagrams&theme=tokyonight&hide_border=true&description_lines_count=2" alt="handdrawn-diagrams" /></a>
-</p>
+- [garu](https://github.com/ongjin/garu) — 초경량 한국어 형태소 분석기. 1MB 모델로 브라우저에서 실행(WASM). npm: `garu-ko`
+- [handdrawn-diagrams](https://github.com/ongjin/handdrawn-diagrams) — 손글씨/Excalidraw 스타일 다이어그램 스킬. rough.js + 손글씨 폰트 → 헤드리스 PNG 렌더.
 
 ---
 
