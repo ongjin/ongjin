@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">👋 안녕하세요, 백엔드 개발자 조용진입니다.</p>
+<p align="center">안녕하세요, 백엔드 개발자 조용진입니다.</p>
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ongjin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Featured Open Source
+### Featured Open Source
 
 <p align="center">
   <a href="https://github.com/ongjin/garu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ongjin&repo=garu&theme=tokyonight&hide_border=true&description_lines_count=2" alt="garu" /></a>
@@ -96,7 +96,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ongjin/ongjin/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
