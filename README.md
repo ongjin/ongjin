@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [코드 한 줄 안 고치고 JDK만 27로 올렸다 — 청구서는 바이트와 메모리로 왔다](https://zerry.co.kr/blog/jdk27-defaults-not-features)
 - [블로그 글 104편을 JVM 힙에 올려 재봤다 — 한글 String 값은 Java 8에서 거의 안 내렸다](https://zerry.co.kr/blog/korean-string-heap-bill-java8-to-25)
 - [WASM validator는 통과했는데 V8은 거부했다 — wasm-opt가 0x7f를 배포한 이유](https://zerry.co.kr/blog/garu-wasm-compact-imports-v8-issue7)
 - [새로고침할 때만 스타일이 깨지는 페이지를 쫓아갔다 — CDN 엣지가 그 HTML을 1년짜리로 물고 있었다](https://zerry.co.kr/blog/missing-revalidate-edge-pinned-html)
 - [PostgreSQL 19가 논리복제의 재시작·시퀀스 문제를 고쳤다 — publisher가 옛 버전이면 안 온다](https://zerry.co.kr/blog/pg19-logical-replication-publisher-side)
-- [20년 만에 코어에 들어온 Postgres 힌트를 틀린 추정에 대봤다 — 플랜만 바뀌고 추정은 그대로였다](https://zerry.co.kr/blog/pg19-plan-advice-denylist-not-hints)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
