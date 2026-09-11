@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;빌드 시간 줄일 일 생기면 여기부터&#39;라고 적어둔 캐시 플래그, 이미 켜져 있었다 — 컴파일은 90% 넘게 사라졌는데 파이프라인에선 못 찾았다](https://zerry.co.kr/blog/turbopack-fs-cache-compile-not-pipeline)
 - [Next 이미지 최적화기 RCE 공지 뒤 내 서버 로그를 뒤졌다 — 스캐너는 엿새 만에 왔고, 열려 있던 문은 못 찾았다](https://zerry.co.kr/blog/image-optimizer-shared-cdn-allowlist)
 - [코드 한 줄 안 고치고 JDK만 27로 올렸다 — 청구서는 바이트와 메모리로 왔다](https://zerry.co.kr/blog/jdk27-defaults-not-features)
 - [블로그 글 104편을 JVM 힙에 올려 재봤다 — 한글 String 값은 Java 8에서 거의 안 내렸다](https://zerry.co.kr/blog/korean-string-heap-bill-java8-to-25)
 - [WASM validator는 통과했는데 V8은 거부했다 — wasm-opt가 0x7f를 배포한 이유](https://zerry.co.kr/blog/garu-wasm-compact-imports-v8-issue7)
-- [새로고침할 때만 스타일이 깨지는 페이지를 쫓아갔다 — CDN 엣지가 그 HTML을 1년짜리로 물고 있었다](https://zerry.co.kr/blog/missing-revalidate-edge-pinned-html)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
