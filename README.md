@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [7월에 못 붙었던 페디버스 릴레이에 다시 Follow 를 보냈다 — 릴레이는 받아줬고, 승인은 내 서버가 떨어뜨렸다](https://zerry.co.kr/blog/relay-retry-accept-dropped-by-my-server)
 - [PG19 가 GA 직전에 뺀 FOR PORTION OF 를 리버트 전 빌드에서 돌려봤다 — 세 베타를 통과한 결함은 그 기능의 테스트 파일 머리말에 적혀 있었다](https://zerry.co.kr/blog/pg19-for-portion-of-lost-update-in-spec-comment)
 - [PostgreSQL 19 베타에서 재봤던 SQL/PGQ 를 GA 직전 브랜치에서 다시 돌렸다 — 커밋 47개와 함께 문법째 사라져 있었다](https://zerry.co.kr/blog/pg19-pgq-reverted-beta-post-expired)
 - [&#39;빌드 시간 줄일 일 생기면 여기부터&#39;라고 적어둔 캐시 플래그, 이미 켜져 있었다 — 컴파일은 90% 넘게 사라졌는데 파이프라인에선 못 찾았다](https://zerry.co.kr/blog/turbopack-fs-cache-compile-not-pipeline)
 - [Next 이미지 최적화기 RCE 공지 뒤 내 서버 로그를 뒤졌다 — 스캐너는 엿새 만에 왔고, 열려 있던 문은 못 찾았다](https://zerry.co.kr/blog/image-optimizer-shared-cdn-allowlist)
-- [코드 한 줄 안 고치고 JDK만 27로 올렸다 — 청구서는 바이트와 메모리로 왔다](https://zerry.co.kr/blog/jdk27-defaults-not-features)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
