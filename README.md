@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [내 페디버스 인박스는 서명은 검증하고, 그 키가 누구 것인지는 키의 자기주장을 믿었다 — 2.3.6에선 아무 서버나 남을 사칭할 수 있었다](https://zerry.co.kr/blog/fedify-inbox-trusted-key-self-declared-owner)
 - [JDK 28 Valhalla 의 값 객체 배열이 얼마나 납작해지나 재봤다 — long 을 감싼 내 값 객체는 오히려 원소당 8바이트 커졌다](https://zerry.co.kr/blog/valhalla-flattening-eight-byte-line)
 - [챗봇에 검색 결과를 몰래 끼워 넣었더니 방문자에게 그걸 되읽어줬다 — 숨기라는 문장을 덧대자 그 문장까지 읽었다](https://zerry.co.kr/blog/chatbot-prefetch-leak-read-back-to-visitor)
 - [7월에 못 붙었던 페디버스 릴레이에 다시 Follow 를 보냈다 — 릴레이는 받아줬고, 승인은 내 서버가 떨어뜨렸다](https://zerry.co.kr/blog/relay-retry-accept-dropped-by-my-server)
 - [PG19 가 GA 직전에 뺀 FOR PORTION OF 를 리버트 전 빌드에서 돌려봤다 — 세 베타를 통과한 결함은 그 기능의 테스트 파일 머리말에 적혀 있었다](https://zerry.co.kr/blog/pg19-for-portion-of-lost-update-in-spec-comment)
-- [PostgreSQL 19 베타에서 재봤던 SQL/PGQ 를 GA 직전 브랜치에서 다시 돌렸다 — 커밋 47개와 함께 문법째 사라져 있었다](https://zerry.co.kr/blog/pg19-pgq-reverted-beta-post-expired)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
