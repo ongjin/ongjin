@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare OHTTP를 뜯어봤다 — 사용자 IP를 보는 서버는 요청 내용을 읽지 못한다](https://zerry.co.kr/blog/cloudflare-ohttp-split-trust)
 - [Kuma 업데이트 뒤 외부 접속을 확인했다 — 200을 준 건 로그인 화면이었다](https://zerry.co.kr/blog/kuma-healthcheck-200-cloudflare-login)
 - [AI 모델 다섯에게 포커를 시키며 블러프해도 된다고 했다 — 지난 판에 오간 말을 보여주자 다들 제 패를 말하기 시작했다](https://zerry.co.kr/blog/holdem-table-talk-confession)
 - [내 페디버스 인박스는 서명은 검증하고, 그 키가 누구 것인지는 키의 자기주장을 믿었다 — 2.3.6에선 아무 서버나 남을 사칭할 수 있었다](https://zerry.co.kr/blog/fedify-inbox-trusted-key-self-declared-owner)
 - [JDK 28 Valhalla 의 값 객체 배열이 얼마나 납작해지나 재봤다 — long 을 감싼 내 값 객체는 오히려 원소당 8바이트 커졌다](https://zerry.co.kr/blog/valhalla-flattening-eight-byte-line)
-- [챗봇에 검색 결과를 몰래 끼워 넣었더니 방문자에게 그걸 되읽어줬다 — 숨기라는 문장을 덧대자 그 문장까지 읽었다](https://zerry.co.kr/blog/chatbot-prefetch-leak-read-back-to-visitor)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
