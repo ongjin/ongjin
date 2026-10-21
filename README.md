@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [검색 재정렬 모델을 바꿨다 — 오답으로 채점된 글은 정답지보다 늦게 나왔다](https://zerry.co.kr/blog/rerank-stale-answer-key)
 - [조회만 하는 API에도 트랜잭션이 필요했다 — 캐시 키와 값이 서로 다른 시점을 봤다](https://zerry.co.kr/blog/read-only-cache-snapshot)
 - [Finder에서 파일명을 겹치게 바꿨다 — 일괄 변경은 경고 대신 번호를 붙였다](https://zerry.co.kr/blog/finder-bulk-rename-collision)
 - [AI에게 에이스 두 장을 들었다고 거짓말했다 — 같은 패로도 Qwen은 더 자주 접었다](https://zerry.co.kr/blog/holdem-bluff-claim)
 - [Cloudflare OHTTP를 뜯어봤다 — 사용자 IP를 보는 서버는 요청 내용을 읽지 못한다](https://zerry.co.kr/blog/cloudflare-ohttp-split-trust)
-- [Kuma 업데이트 뒤 외부 접속을 확인했다 — 200을 준 건 로그인 화면이었다](https://zerry.co.kr/blog/kuma-healthcheck-200-cloudflare-login)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
