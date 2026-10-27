@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [AI가 작성한 코드, 사람이 이해할 필요 있을까?](https://zerry.co.kr/blog/ai-code-human-understanding)
+- [AI에게 고장 난 계산기를 줬다 — 혼자 맞히던 산수를 도구를 받고 틀렸다](https://zerry.co.kr/blog/broken-calculator-trust)
 - [성격이라고 부르는 것 중 얼마나 많은 게 상황일까](https://zerry.co.kr/blog/character-or-situation)
 - [형태소 분석기에 사전을 더 넣었다 — 알던 문장까지 틀리기 시작했다](https://zerry.co.kr/blog/garu-dictionary-expansion-regression)
 - [검색 재정렬 모델을 바꿨다 — 오답으로 채점된 글은 정답지보다 늦게 나왔다](https://zerry.co.kr/blog/rerank-stale-answer-key)
-- [조회만 하는 API에도 트랜잭션이 필요했다 — 캐시 키와 값이 서로 다른 시점을 봤다](https://zerry.co.kr/blog/read-only-cache-snapshot)
-- [Finder에서 파일명을 겹치게 바꿨다 — 일괄 변경은 경고 대신 번호를 붙였다](https://zerry.co.kr/blog/finder-bulk-rename-collision)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
