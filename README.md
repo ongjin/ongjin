@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP 보안 공지를 읽었다 — index.php가 실행되기 전에도 RCE가 가능했다](https://zerry.co.kr/blog/php-before-application-code)
 - [한국어 질문을 두 번 붙였다 — ‘다시 확인해’와는 결과가 달랐다](https://zerry.co.kr/blog/prompt-repetition-korean)
 - [PostgreSQL 버전은 그대로 두고 이미지를 바꿨다 — 인덱스 조회에서만 행이 사라졌다](https://zerry.co.kr/blog/postgres-collation-refresh-not-repair)
 - [같은 ZIP을 다른 방식으로 풀었다 — 파일 개수도 내용도 달랐다](https://zerry.co.kr/blog/same-zip-different-files)
 - [AI가 작성한 코드, 사람이 이해할 필요 있을까?](https://zerry.co.kr/blog/ai-code-human-understanding)
-- [AI에게 고장 난 계산기를 줬다 — 혼자 맞히던 산수를 도구를 받고 틀렸다](https://zerry.co.kr/blog/broken-calculator-trust)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
