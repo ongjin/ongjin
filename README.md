@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 서버가 쓰는 메모리를 열어봤다 — JS 힙은 절반쯤이었다](https://zerry.co.kr/blog/nextjs-memory-rss-and-heap)
 - [AI가 수학 논문을 쏟아낼 때, 인간은 무엇을 해야 하나?](https://zerry.co.kr/blog/ai-math-proofs-human-work)
 - [PHP 보안 공지를 읽었다 — index.php가 실행되기 전에도 RCE가 가능했다](https://zerry.co.kr/blog/php-before-application-code)
 - [한국어 질문을 두 번 붙였다 — ‘다시 확인해’와는 결과가 달랐다](https://zerry.co.kr/blog/prompt-repetition-korean)
 - [PostgreSQL 버전은 그대로 두고 이미지를 바꿨다 — 인덱스 조회에서만 행이 사라졌다](https://zerry.co.kr/blog/postgres-collation-refresh-not-repair)
-- [같은 ZIP을 다른 방식으로 풀었다 — 파일 개수도 내용도 달랐다](https://zerry.co.kr/blog/same-zip-different-files)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
