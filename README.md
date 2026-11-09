@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.15가 open&lpar;&rpar;의 기본 인코딩을 UTF-8로 바꿨다 — cp949 환경에서 오류를 내던 BOM 붙은 CSV는 이제 오류 없이 첫 열 이름이 달라졌다](https://zerry.co.kr/blog/python-315-utf8-excel-csv)
 - [배열 일부만 Worker에 보냈다 — 원본 버퍼까지 따라갔다](https://zerry.co.kr/blog/worker-subarray-buffer)
 - [Next.js 서버가 쓰는 메모리를 열어봤다 — JS 힙은 절반쯤이었다](https://zerry.co.kr/blog/nextjs-memory-rss-and-heap)
 - [AI가 수학 논문을 쏟아낼 때, 인간은 무엇을 해야 하나?](https://zerry.co.kr/blog/ai-math-proofs-human-work)
 - [PHP 보안 공지를 읽었다 — index.php가 실행되기 전에도 RCE가 가능했다](https://zerry.co.kr/blog/php-before-application-code)
-- [한국어 질문을 두 번 붙였다 — ‘다시 확인해’와는 결과가 달랐다](https://zerry.co.kr/blog/prompt-repetition-korean)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
