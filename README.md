@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.15가 open&lpar;&rpar;의 기본 인코딩을 UTF-8로 바꿨다 — cp949 환경에서 오류를 내던 BOM 붙은 CSV는 이제 오류 없이 첫 열 이름이 달라졌다](https://zerry.co.kr/blog/python-315-utf8-excel-csv)
-- [배열 일부만 Worker에 보냈다 — 원본 버퍼까지 따라갔다](https://zerry.co.kr/blog/worker-subarray-buffer)
-- [Next.js 서버가 쓰는 메모리를 열어봤다 — JS 힙은 절반쯤이었다](https://zerry.co.kr/blog/nextjs-memory-rss-and-heap)
-- [AI가 수학 논문을 쏟아낼 때, 인간은 무엇을 해야 하나?](https://zerry.co.kr/blog/ai-math-proofs-human-work)
-- [PHP 보안 공지를 읽었다 — index.php가 실행되기 전에도 RCE가 가능했다](https://zerry.co.kr/blog/php-before-application-code)
+- [Finder로 만든 한글 파일 이름은 터미널과 바이트가 달랐다. 맥은 같은 이름이라 했고 리눅스는 두 파일로 봤다](https://zerry.co.kr/blog/macos-hangul-filename-nfd)
+- [테스트 명령 앞에 CLAUDECODE=1을 붙이자 Vitest는 나를 AI 에이전트로 보고 통과한 테스트의 경고를 출력에서 뺐다](https://zerry.co.kr/blog/dev-tools-detect-ai-agents)
+- [Python 3.15가 open&lpar;&rpar;의 기본 인코딩을 UTF-8로 바꿨다. cp949 환경에서 오류를 내던 BOM 붙은 CSV는 이제 오류 없이 첫 열 이름이 달라졌다](https://zerry.co.kr/blog/python-315-utf8-excel-csv)
+- [배열 일부만 Worker에 보냈는데 원본 버퍼까지 따라갔다](https://zerry.co.kr/blog/worker-subarray-buffer)
+- [Next.js 서버가 쓰는 메모리를 열어보니 JS 힙은 절반쯤이었다](https://zerry.co.kr/blog/nextjs-memory-rss-and-heap)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
