@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [한국어 날짜를 서버 Node와 브라우저에서 같은 코드로 찍었더니 일부 Node는 &#39;오후&#39; 자리에 &#39;PM&#39;을 넣었다](https://zerry.co.kr/blog/ko-kr-date-format-engine-mismatch)
 - [1988년 서울에 없던 시각을 Temporal에 넣었더니 기본 옵션은 Date와 똑같이 한 시간 뒤로 밀었다](https://zerry.co.kr/blog/temporal-seoul-missing-hour)
 - [Finder로 만든 한글 파일 이름은 터미널과 바이트가 달랐다. 맥은 같은 이름이라 했고 리눅스는 두 파일로 봤다](https://zerry.co.kr/blog/macos-hangul-filename-nfd)
 - [테스트 명령 앞에 CLAUDECODE=1을 붙이자 Vitest는 나를 AI 에이전트로 보고 통과한 테스트의 경고를 출력에서 뺐다](https://zerry.co.kr/blog/dev-tools-detect-ai-agents)
 - [Python 3.15가 open&lpar;&rpar;의 기본 인코딩을 UTF-8로 바꿨다. cp949 환경에서 오류를 내던 BOM 붙은 CSV는 이제 오류 없이 첫 열 이름이 달라졌다](https://zerry.co.kr/blog/python-315-utf8-excel-csv)
-- [배열 일부만 Worker에 보냈는데 원본 버퍼까지 따라갔다](https://zerry.co.kr/blog/worker-subarray-buffer)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
