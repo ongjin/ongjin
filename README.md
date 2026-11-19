@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions 잠금 파일을 켠 뒤 composite 액션이 부르는 v1 태그를 main 밖 커밋으로 옮기자 손대지 않은 워크플로가 거부됐다](https://zerry.co.kr/blog/actions-lockfile-transitive-tag-move)
 - [마운자로를 12개까지 들여올 수 있다는 기사를 보고 식약처 보도자료를 열었더니 12개는 각주의 예시였다](https://zerry.co.kr/blog/glp1-import-press-release-vs-news)
 - [나는 이번 수능을 미뤄야 한다고 생각한다](https://zerry.co.kr/blog/postpone-suneung-ai-cheating)
 - [일본 병원 가격 페이지의 변동을 문장 단위로 잡으려 했더니 가격표에는 마침표가 없었다](https://zerry.co.kr/blog/clinic-page-watch-no-full-stops)
 - [Node HTTPS 요청의 host에 0127.0.0.1을 넣었더니 6월 보안 패치 뒤 맥에서는 87.0.0.1용 인증서로 127.0.0.1 서버를 믿었다](https://zerry.co.kr/blog/leading-zero-ip-macos-tls)
-- [한국어 날짜를 서버 Node와 브라우저에서 같은 코드로 찍었더니 일부 Node는 &#39;오후&#39; 자리에 &#39;PM&#39;을 넣었다](https://zerry.co.kr/blog/ko-kr-date-format-engine-mismatch)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
