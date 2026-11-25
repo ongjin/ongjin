@@ -13,11 +13,11 @@
 ### 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 배포 뒤 옛 화면을 따라가 보니 CDN용 stale-while-revalidate를 브라우저가 쓰고 있었다](https://zerry.co.kr/blog/browser-stale-while-revalidate-html)
 - [PostgreSQL 19에서 주문 테이블을 정리했더니 열어 둔 보고서에서만 주문이 0건이었다](https://zerry.co.kr/blog/pg19-repack-old-snapshot)
 - [AWS 공식 에뮬레이터의 SQS에 한도보다 작은 한글 메시지를 보냈더니 Python으로 보낸 것만 막혔다](https://zerry.co.kr/blog/aws-emulator-korean-byte-limits)
 - [Gemini Decisions API에 같은 환불 문의를 부정 의문문 세 가지로 물었더니 어미 하나가 판정을 뒤집었다](https://zerry.co.kr/blog/gemini-decisions-negation)
 - [GitHub Actions 잠금 파일을 켠 뒤 composite 액션이 부르는 v1 태그를 main 밖 커밋으로 옮기자 손대지 않은 워크플로가 거부됐다](https://zerry.co.kr/blog/actions-lockfile-transitive-tag-move)
-- [마운자로를 12개까지 들여올 수 있다는 기사를 보고 식약처 보도자료를 열었더니 12개는 각주의 예시였다](https://zerry.co.kr/blog/glp1-import-press-release-vs-news)
 <!-- BLOG-POST-LIST:END -->
 
 > 매일 자정(UTC) GitHub Actions가 [zerry.co.kr/feed.xml](https://zerry.co.kr/feed.xml)에서 자동 동기화합니다.
